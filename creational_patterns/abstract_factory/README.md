@@ -2,13 +2,14 @@
 The abstract factory pattern dessing works under the idea of making factories of factories. To be honest it was
 a bit confusing at the begging because you can get lose really easy with all the concepts if you don't pay attention
 
+
 ##Convencions
-1.
+1. We are going to call 'Products' to each variation of our  
 
 
 
 ##Used example
-In this example, I used an excersice proposed by the patterns design course of Platzi (here the direct link of the course) 
+In this example, I used an excersice proposed by the patterns design course of Platzi (here the direct link of the course)  
 Attach base diagram
 
 ##Steps
