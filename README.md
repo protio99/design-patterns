@@ -1,19 +1,31 @@
-## Welcome
-Hi there, this repo is a recopilation of info about pattern designs. I don't inted to present this as if I were an experct, in fact am learning about the topic and I just wanted to share the examples i made in order to study and undertand better this awsome topic.
+# Welcome 👋  
 
-Everything you're going to find here is based on two sources
-1. An amazaing page that has a lot of helpful information about desgin patterns, is called 'Refactoring guru' here the direct link https://refactoring.guru/design-patterns. I higly recommend to take a read of this page, it has a lot of examples, diagrams and funny images that make this path more light weight.
-2. A design patter Platzi course dicted by the X teacher, an excellent course that helped me to afianzar?? all this information. I took sll the examples of this course. Take a look of the course (attach link)
+Hi there! This repository is a collection of information about design patterns. I don't intend to present this as if I were an expert—I'm actually learning about the topic. I just wanted to share the examples I’ve made to study and understand this awesome subject better.  
 
+Everything you'll find here is based on two sources:  
 
-# Resume table
-1. Creational patterns
-1.1 Singleton
-1.2 Factory Method
-1.3 Abstract Factory
-1.4 Builder
-1.5 Prototype
+1. An amazing website with a lot of helpful information about design patterns: **[Refactoring Guru](https://refactoring.guru/design-patterns)**.  
+   I highly recommend checking it out—it has many examples, diagrams, and fun illustrations that make learning much more enjoyable.  
+   
+2. A **design patterns course on Platzi/Design patterns course in Js**, taught by **[Daniel Basulto]**.  
+   This excellent course helped me strengthen my understanding of design patterns. I took all the examples from this course.  
+   👉 [Check out the course here](https://platzi.com/cursos/patrones-diseno-creacionales/).  
 
-Each section has a dot Readme file that sumarise the example and a some steps that helps to take it easy the pattern
+---
 
+## 📌 Table of Contents  
+
+### 1️⃣ Creational Patterns  
+- [Singleton](creational_patterns/singleton/README.md)  
+- [Factory Method](creational_patterns/factory_method/README.md)  
+- [Abstract Factory](creational_patterns/abstract_factory/README.md)  
+- [Builder](creational_patterns/builder/README.md)  
+- [Prototype](creational_patterns/prototype/README.md)  
+
+Each section contains a dedicated README file summarizing the example along with step-by-step instructions to make understanding each pattern easier.  
+
+---
+
+I hope this repository is useful for anyone interested in learning design patterns! 😊  
+Feel free to explore and contribute. 🚀  
 
